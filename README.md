@@ -1,6 +1,6 @@
 # CNPM_PhanHocam_lab_7
 Quản lý khách sạn
-Xác định yêu cầu đặc tả Goals và business objective
+Xác định yêu cầu đặc tả Goals và business objective :
 	+ Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lý khách sạn được sử dụng, tuy nhiên
     phần mềm cho phép khách hàng có thể sử dụng phần mềm để xem thông tin về khách sạn cũng như là phòng ở trước khi đặt phòng hoặc để 
     dùng một số dịch vụ khác của khách sạn.
